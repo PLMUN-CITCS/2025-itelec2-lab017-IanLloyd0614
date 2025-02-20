@@ -1,4 +1,4 @@
-# John Rey Bulfa
+# Ian Lloyd Santiago Angeles
 # ITELEC2
 # Laboratory #16 – Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
